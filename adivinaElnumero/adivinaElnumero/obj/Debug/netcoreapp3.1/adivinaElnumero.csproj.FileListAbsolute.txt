@@ -1,0 +1,14 @@
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\bin\Debug\netcoreapp3.1\adivinaElnumero.exe
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\bin\Debug\netcoreapp3.1\adivinaElnumero.deps.json
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\bin\Debug\netcoreapp3.1\adivinaElnumero.runtimeconfig.json
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\bin\Debug\netcoreapp3.1\adivinaElnumero.runtimeconfig.dev.json
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\bin\Debug\netcoreapp3.1\adivinaElnumero.dll
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\bin\Debug\netcoreapp3.1\adivinaElnumero.pdb
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.csproj.AssemblyReference.cache
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.AssemblyInfoInputs.cache
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.AssemblyInfo.cs
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.csproj.CoreCompileInputs.cache
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.dll
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.pdb
+C:\Users\MANTILLA\source\repos\adivinaElnumero\adivinaElnumero\obj\Debug\netcoreapp3.1\adivinaElnumero.genruntimeconfig.cache
